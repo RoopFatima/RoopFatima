@@ -1,20 +1,21 @@
+
 # Hi there, I'm Roop Fatima 👋
 
-### 🚀 Computer Science Student & Web Developer
-I focus on building modern Progressive Web Apps (PWAs), clean JavaScript architectures, and responsive data-driven solutions.
+### 🚀 BS Computer Science Student | Software & Web Developer
+Building practical web applications and exploring core software engineering practices with Python and modern web technologies.
 
 ---
 
-### 💻 Core Tech & Skills
-- **Frontend:** JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
-- **Application Types:** Progressive Web Apps (PWAs), Responsive Dashboards
-- **Tools & Environments:** Git, GitHub, VS Code, Linux/Chromebook Dev Setup
+### 💻 Tech Spectrum
+- **Languages:** Python, JavaScript, HTML5, CSS3
+- **Developer Tools:** Git, GitHub, VS Code, Linux Environment
+- **Focus Areas:** Web Applications (PWAs), Logic & Algorithms, Clean Code Architecture
 
 ---
 
-### 📌 Active Projects
-- 💳 **[Smart Wallet Tracker App](https://github.com/RoopFatima/Smart_Wallet_Tracker_App):** A modern, offline-first Progressive Web App for expense management and financial analytics.
+### 📌 Featured Project
+- 💳 **[Smart Wallet Tracker App](https://github.com/RoopFatima/Smart_Wallet_Tracker_App):** A modern Progressive Web App (PWA) built for smart expense tracking and financial analytics.
 
 ---
 
-⚡ *Focused on building scalable, production-ready software solutions.*
+⚡ *Focused on building scalable applications and growing through technical challenges.*
