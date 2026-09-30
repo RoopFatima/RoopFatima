@@ -1,6 +1,6 @@
 # Hi there, I'm Roop Fatima 👋
 
-### 🚀 Software Engineering Student & Web Developer
+### 🚀 Computer Science Student & Web Developer
 I focus on building modern Progressive Web Apps (PWAs), clean JavaScript architectures, and responsive data-driven solutions.
 
 ---
